@@ -38,7 +38,7 @@ img {
 }
 
 h2 {
- background-color: lightGray;
+ background-color: darkblue;
  margin: 10px;
  padding-top: 30px;
  padding-bottom: 10px;
@@ -49,7 +49,6 @@ h2 {
 
 
 p {
- background-color: dimGray;
  margin-top: 80px; 
  margin-left: 30px;
  margin-right: 30px;
@@ -75,7 +74,7 @@ img {
 }
 
 body {
- background-color: white;
+ 
  color: white;
  text-align: center;
  font-family: "Verdana", sans-serif;
@@ -91,7 +90,6 @@ p {
 
 button {
  font-size: 18px;
- background-color: purple;
  color: white;
  border-radius: 30px;
  margin: 30px 0 0 0;
@@ -110,13 +108,11 @@ body {
 }
 
 h2 {
- background-color: aliceBlue;
  margin: 40px 30px 30px 30px;
  border-radius: 0 30px 30px 0;
 }
 
 img {
- background-color: lightBlue;
  width: 100px;
  padding: 10px;
  border-radius: 20px;
@@ -124,7 +120,6 @@ img {
 }
 
 button {
- background-color: darkCyan;
  color:white;
  padding: 5px 15px 5px 15px;
  margin: 25px 0 0 0;
@@ -132,7 +127,7 @@ button {
 }
 
 p {
- background-color: aliceBlue;
+
  padding: 5px 10px 5px 10px;
  margin: 30px 30px 0 30px;
  border-radius: 15px 0 15px 0;
@@ -154,3 +149,35 @@ img {
  border-radius: 150px;
  transform: rotate(15deg);
 }
+body {
+ text-align: center;
+}
+
+h3 {
+ filter: blur(4px);
+}
+
+h4 {
+ filter: blur(2px);
+}
+
+h5 {
+ filter: blur(1px);
+}
+
+body {
+ text-align: center;
+}
+
+img {
+ width: 100px;
+ height: 100px;
+ margin: 20px;
+ filter: blur(10px);
+}
+
+p{
+ font-size: 9px;
+ filter: blur(10px);
+}
+
