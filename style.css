@@ -224,3 +224,32 @@ a {
  border: solid 1px black;
  filter: opacity(50%);
 }
+
+
+body {
+ background-color: slateGray;
+ color: white;
+ text-align: center;
+}
+
+img {
+ margin: 10px 0 20px 0;
+ border: solid 2px aliceBlue;
+ filter: saturate(130%) brightness(110%);
+}
+
+img {
+ filter: brightness(80%) saturate (75%)
+ contrast(150%);
+ width: 200px;
+ height: 300px;
+ padding: 50px;
+ border: solid 2px black;
+ background-color: white;
+}
+
+body {
+ text-align: center;
+ font-family: monospace;
+ background-color: beige;
+}
