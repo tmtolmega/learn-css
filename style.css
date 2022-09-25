@@ -53,12 +53,11 @@ p {
  margin-left: 30px;
  margin-right: 30px;
  padding: 20px;
-}
+
 
 h3 {
  margin: 20px;
 }
-
 h1 {
   margin-top: 30px;
 }
@@ -252,4 +251,24 @@ body {
  text-align: center;
  font-family: monospace;
  background-color: beige;
+}
+
+
+h3 {
+ height: 40px;
+ padding: 15px;
+ border-radius: 8px;
+ background: linear-gradient(aliceblue, white);
+}
+
+img {
+ height: 300px;
+ padding: 20px;
+ border-radius: 8px;
+ background: linear-gradient(90deg, bisque, white, bisque);
+}
+
+body {
+ text-align: center;
+ background: linear-gradient(45deg, lightBlue, snow, white);
 }
