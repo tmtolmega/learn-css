@@ -305,3 +305,35 @@ div {
  margin: 20px;
  padding: 10px;
 }
+
+body {
+ background-color: bisque;
+ text-align: center;
+}
+
+p {
+ border: solid 1px bisque;
+ margin: 0;
+ padding: 10px;
+}
+
+div {
+ border-radius: 10px;
+ background-color: whitesmoke;
+ font-size: 14px;
+ text-align: left;
+}
+
+h4 {
+ margin: 5px 0px 5px 0px;
+ }
+
+p {
+ margin: 0px 0px 15px 0px;
+ }
+
+div {
+ margin: 40px;
+ color: gray;
+ font-size: small;
+}
