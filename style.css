@@ -337,3 +337,48 @@ div {
  color: gray;
  font-size: small;
 }
+
+
+img {
+ width: 100px;
+}
+
+.title {
+ background-color: coral;
+}
+
+.navigation {
+ background-color: lightCoral;
+ color: white;
+}
+
+.content {
+ background-color: linen;
+ text-align: center;
+}
+
+div {
+ margin-bottom: 10px;
+ border-radius: 5px;
+ padding: 12px;
+}
+
+body {
+ text-align: center;
+}
+
+.pricing {
+ border: 2px solid indigo;
+ padding: 10px;
+}
+
+.header {
+ font-size: 30px;
+ background-color: indigo;
+ color: white;
+ margin: 0px;
+}
+
+.price {
+ font-size: 25px;
+}
